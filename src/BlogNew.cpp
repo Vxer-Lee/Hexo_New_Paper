@@ -53,8 +53,6 @@ void usage()
 
 int main(int argc,char *argv[])
 {
-    system("pwd");
-    return 0;
 	if (argc<=1)
 	{
 		usage();
